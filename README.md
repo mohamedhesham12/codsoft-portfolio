@@ -1,3 +1,3 @@
 # codsoft-portfolio
 
-## this first project from codsoft inetern
+## this first project from codsoft internship
